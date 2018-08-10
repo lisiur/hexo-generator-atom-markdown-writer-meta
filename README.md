@@ -1,4 +1,4 @@
-hexo-generator-atom-markdown-writer-meta [![NPM version][npm-image]][npm-url] [![Dependency Status][depstat-image]][depstat-url]
+hexo-generator-atom-markdown-writer-meta-fixed-fixed [![NPM version][npm-image]][npm-url] [![Dependency Status][depstat-image]][depstat-url]
 ========================================
 
 > A [Hexo][hexo-url] generator that produces meta json files required by the [Atom][atom-url] [Markdown-Writer][markdown-writer-url]
@@ -8,7 +8,7 @@ hexo-generator-atom-markdown-writer-meta [![NPM version][npm-image]][npm-url] [!
 
 Install using [npm][npm-url].
 
-    $ npm install hexo-generator-atom-markdown-writer-meta --save
+    $ npm install hexo-generator-atom-markdown-writer-meta-fixed-fixed --save
 
 ## Markdown-Writer Configuration for Hexo
 
@@ -16,11 +16,11 @@ Field          | Sample Value
 ---------------|----
 File Extension | .md
 Site Draft Dir | source/_drafts
-Site Local Dir | /Users/timnew/Workspace/blogs/timnew
+Site Local Dir | /Users/youngjuning/Workspace/blogs/youngjuning
 Site Posts Dir | source/_posts
-Url for Categories | http://timnew.github.io/categories.json
-Url for Posts      | http://timnew.github.io/posts.json
-Url for Tags       | http://timnew.github.io/tags.json
+Url for Categories | http://youngjuning.github.io/categories.json
+Url for Posts      | http://youngjuning.github.io/posts.json
+Url for Tags       | http://youngjuning.github.io/tags.json
 
 ## Files
 
@@ -39,14 +39,14 @@ MIT
 
 [![NPM downloads][npm-downloads]][npm-url]
 
-[homepage]: https://github.com/timnew/hexo-generator-atom-markdown-writer-meta
+[homepage]: https://github.com/youngjuning/hexo-generator-atom-markdown-writer-meta-fixed
 
-[npm-url]: https://npmjs.org/package/hexo-generator-atom-markdown-writer-meta
-[npm-image]: http://img.shields.io/npm/v/hexo-generator-atom-markdown-writer-meta.svg?style=flat
-[npm-downloads]: http://img.shields.io/npm/dm/hexo-generator-atom-markdown-writer-meta.svg?style=flat
+[npm-url]: https://npmjs.org/package/hexo-generator-atom-markdown-writer-meta-fixed
+[npm-image]: http://img.shields.io/npm/v/hexo-generator-atom-markdown-writer-meta-fixed.svg?style=flat
+[npm-downloads]: http://img.shields.io/npm/dm/hexo-generator-atom-markdown-writer-meta-fixed.svg?style=flat
 
-[depstat-url]: https://gemnasium.com/timnew/hexo-generator-atom-markdown-writer-meta
-[depstat-image]: http://img.shields.io/gemnasium/timnew/hexo-generator-atom-markdown-writer-meta.svg?style=flat
+[depstat-url]: https://gemnasium.com/youngjuning/hexo-generator-atom-markdown-writer-meta-fixed
+[depstat-image]: http://img.shields.io/gemnasium/youngjuning/hexo-generator-atom-markdown-writer-meta-fixed.svg?style=flat
 
 [atom-url]: https://atom.io/
 [markdown-writer-url]: https://github.com/zhuochun/md-writer

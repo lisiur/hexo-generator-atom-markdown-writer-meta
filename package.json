@@ -1,14 +1,14 @@
 {
-  "name": "hexo-generator-atom-markdown-writer-meta",
+  "name": "hexo-generator-atom-markdown-writer-meta-fixed",
   "version": "0.1.1",
-  "description": "hexo-generator-atom-markdown-writer-meta ========================================",
+  "description": "hexo-generator-atom-markdown-writer-meta-fixed ========================================",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/timnew/hexo-generator-atom-markdown-writer-meta.git"
+    "url": "https://github.com/youngjuning/hexo-generator-atom-markdown-writer-meta-fixed.git"
   },
   "keywords": [
     "hexo",
@@ -18,12 +18,12 @@
     "metadata",
     "json"
   ],
-  "author": "timnew <timnew.wti@gmail.com> (https://timnew.github.io/)",
+  "author": "youngjuning <youngjuning@aliyun.com> (https://youngjuning.github.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/timnew/hexo-generator-atom-markdown-writer-meta/issues"
+    "url": "https://github.com/youngjuning/hexo-generator-atom-markdown-writer-meta-fixed/issues"
   },
-  "homepage": "https://github.com/timnew/hexo-generator-atom-markdown-writer-meta",
+  "homepage": "https://github.com/youngjuning/hexo-generator-atom-markdown-writer-meta-fixed",
   "dependencies": {},
   "devDependencies": {
     "coffee-script": "^1.7.1",
