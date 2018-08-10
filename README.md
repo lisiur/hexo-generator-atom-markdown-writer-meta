@@ -1,4 +1,4 @@
-hexo-generator-atom-markdown-writer-meta-fixed-fixed [![NPM version][npm-image]][npm-url] [![Dependency Status][depstat-image]][depstat-url]
+hexo-generator-atom-markdown-writer-meta-fixed [![NPM version][npm-image]][npm-url] [![Dependency Status][depstat-image]][depstat-url]
 ========================================
 
 > A [Hexo][hexo-url] generator that produces meta json files required by the [Atom][atom-url] [Markdown-Writer][markdown-writer-url]
@@ -8,7 +8,7 @@ hexo-generator-atom-markdown-writer-meta-fixed-fixed [![NPM version][npm-image]]
 
 Install using [npm][npm-url].
 
-    $ npm install hexo-generator-atom-markdown-writer-meta-fixed-fixed --save
+    $ npm install hexo-generator-atom-markdown-writer-meta-fixed --save
 
 ## Markdown-Writer Configuration for Hexo
 
