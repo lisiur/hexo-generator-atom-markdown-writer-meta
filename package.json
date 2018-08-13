@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-atom-markdown-writer-meta-fixed",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "hexo-generator-atom-markdown-writer-meta-fixed ========================================",
   "main": "index.js",
   "scripts": {
